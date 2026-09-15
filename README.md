@@ -1,9 +1,9 @@
-Hi, I'm Hasan Can Selmo 🚀
+Hi, I'm Hasan Can Selmo 
 I am a Software Engineer and current M.S. in Artificial Intelligence student at the Berlin School of Business and Innovation (BSBI). My journey began at Topkapı University, and since then, I’ve been building scalable web/mobile applications and AI-driven solutions.
 
 I bridge the gap between robust backend architectures (Python/Django) and modern, fluid frontends (React/Next.js/React Native).
 
-🛠 Technical Toolkit
+Technical Toolkit
 Backend: Python, Django, Django REST Framework, Node.js.
 
 Frontend: React, Next.js, React Native, Tailwind CSS.
@@ -14,7 +14,7 @@ DevOps & Infrastructure: Docker, AWS, Linux (Ubuntu), Ansible, SSH/Paramiko.
 
 Database: PostgreSQL, Redis (WebSockets).
 
-🌟 Highlighted Projects
+Highlighted Projects
 ieltstestninja.com | Lead Developer & Founder
 An all-in-one AI-powered platform for IELTS preparation.
 
@@ -42,7 +42,7 @@ Ansible Tag Management: Built a dynamic UI for selective Ansible playbook execut
 
 YAML Linting: Integrated real-time syntax error detection into the deployment portal using CodeMirror and js-yaml.
 
-🎓 Education & Experience
+Education & Experience
 M.S. in Artificial Intelligence – Berlin School of Business and Innovation (BSBI).
 
 B.S. in Software Engineering – Topkapı University.
